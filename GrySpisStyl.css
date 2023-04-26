@@ -1,0 +1,44 @@
+.ad-container img{
+  width: 500px;
+}
+.ad-container {
+  border: 1px solid #ccc;
+  padding: 1px;
+  margin: 1px 0;
+  text-align: center;
+}
+
+.ad-container a {
+  display: block;
+  margin: 0 auto;
+}
+header {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+  }
+  
+  nav li {
+    margin-right: 20px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+    }
+    h1{
+        font-size: 100px;
+    
+}
